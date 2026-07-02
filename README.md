@@ -1,6 +1,7 @@
+//TASK 1:
+
 import java.util.Scanner;
 
-//TASK 1:
 public class andersenTask {
     public static void main(String[] args) {
 

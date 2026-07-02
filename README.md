@@ -1,10 +1,11 @@
 //TASK 1:
 
-import java.util.Scanner;
 
-public class andersenTask {
-    public static void main(String[] args) {
-
+        import java.util.Scanner;
+        
+        public class andersenTask {
+        public static void main(String[] args) {
+         
         Scanner scanner = new Scanner(System.in);
 
         // Task 1 : for the task - if the entered number is greater than 7, then print "Hello"
@@ -39,8 +40,9 @@ public class andersenTask {
         }
 
         scanner.close();
+       }
     }
-}
+
 // TASK 2:
 //Given the bracket sequence: [((())()(())]]
 //1. Is this bracket sequence correct?
